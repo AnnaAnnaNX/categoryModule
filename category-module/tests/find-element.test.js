@@ -1,4 +1,4 @@
-const { findElementById } = require('./find-element');
+const { findElementById } = require('../index');
 
 
 const dataStructure = {

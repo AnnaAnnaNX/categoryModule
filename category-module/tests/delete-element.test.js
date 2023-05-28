@@ -1,7 +1,7 @@
 const {
   findElementById, 
   deleteElementById
-} = require('./find-element');
+} = require('../index');
 
 
 const dataStructure = {
